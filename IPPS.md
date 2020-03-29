@@ -7,6 +7,6 @@
 
 🐳`personal IPNS namespace pointing to personal explorations(space) as personal IPLD forest`
 
-> 🐳`Control-oriented Custom IPNS 🌿Compromise for Consolidation`
+> 🐳`Custom IPNS Record 🌿For Consolidation`
 
-> 🐳`Consolidation-oriented Custom IPLD 🌿Compromise for Control`
+> 🐳`Custom IPLD Resolver 🌿For Control`
