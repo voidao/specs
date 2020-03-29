@@ -5,8 +5,8 @@
 - personal explorations(space) must be fully controlled by the person
 - personal explorations(space) need to be consolidated for the person
 
-🐳`personal IPNS name pointing to personal explorations(space) as personal IPLD forest`
+🐳`personal IPNS namespace pointing to personal explorations(space) as personal IPLD forest`
 
-> 🐳`Control-oriented Custom IPNS`
+> 🐳`Control-oriented Custom IPNS`:herb: `Compromise for Consolidation`
 
-> 🐳`Consolidation-oriented Custom IPLD`
+> 🐳`Consolidation-oriented Custom IPLD`:herb: `Compromise for Control`
