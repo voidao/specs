@@ -5,4 +5,8 @@
 - personal explorations(space) must be fully controlled by the person
 - personal explorations(space) need to be consolidated for the person
 
-:whale: `personal IPNS name pointing to personal explorations(space) as personal IPLD forest`
+🐳`personal IPNS name pointing to personal explorations(space) as personal IPLD forest`
+
+> 🐳Control-oriented Custom IPNS
+
+> 🐳Consolidation-oriented Custom IPLD
