@@ -7,6 +7,6 @@
 
 🐳`personal IPNS namespace pointing to personal explorations(space) as personal IPLD forest`
 
-> 🐳`Control-oriented Custom IPNS`:herb: `Compromise for Consolidation`
+> 🐳`Control-oriented Custom IPNS 🌿Compromise for Consolidation`
 
-> 🐳`Consolidation-oriented Custom IPLD`:herb: `Compromise for Control`
+> 🐳`Consolidation-oriented Custom IPLD 🌿Compromise for Control`
