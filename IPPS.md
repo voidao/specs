@@ -7,6 +7,6 @@
 
 🐳`personal IPNS name pointing to personal explorations(space) as personal IPLD forest`
 
-> 🐳Control-oriented Custom IPNS
+> 🐳`Control-oriented Custom IPNS`
 
-> 🐳Consolidation-oriented Custom IPLD
+> 🐳`Consolidation-oriented Custom IPLD`
