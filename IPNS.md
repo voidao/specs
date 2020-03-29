@@ -13,6 +13,7 @@ IPFS is powered by content-addressed data, which by nature is immutable: changin
 All things considered, the IPFS naming layer is responsible for the creation of:
 - mutable pointers to objects
 - human-readable names
+- *@IPPS: mutable pointer to a person, and evolving with the person*
 
 # Table of Contents
 
