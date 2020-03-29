@@ -1,8 +1,6 @@
-# ![](https://img.shields.io/badge/status-wip-orange.svg?style=flat-square) IPNS - Inter-Planetary Naming System
+# IPPS - InterPlanetary Personal Space
 
-**Authors(s)**:
-- Vasco Santos ([@vasco-santos](https://github.com/vasco-santos))
-- Steven Allen ([@Stebalien](https://github.com/Stebalien))
+> IPPS is based on [IPNS](https://github.com/voidao/specs/blob/master/IPNS.md), which by nature is an egalitarian way to assign mutable names on the Internet at large, without any centralization whatsoever, or certificate authorities. However, there is gap between personality and egalitarianism. This is where IPPS comes into existence.
 
 -----
 
